@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Week3 {
-
     public static Map<Integer, String> userById = new HashMap<>(){{
         put(1,"田中");
         put(2,"鈴木");
